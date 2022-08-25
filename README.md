@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @saintvic20
-- 👀 I’m interested in SOC roles
-- 🌱 I’m currently studying Ethical Hacking with the University of Miami
 - 📫 How to reach me ...
 - Email: Santosvictor15@hotmail.com
 
