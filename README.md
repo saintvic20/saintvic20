@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saintvic20
 - 📫 How to reach me ...
-- Email: Santosvictor15@hotmail.com
+- Email: victors4cyber@gmail.com
 
 <!---
 saintvic20/saintvic20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
